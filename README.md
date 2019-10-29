@@ -6,3 +6,5 @@
 
 [October 16, 2019 Problem Set](https://gist.github.com/davidlawrencer/5186c4076937bd50ca59f9e5f09bc41d)
 
+[October 29, 2019 Problem Set](https://gist.github.com/davidlawrencer/b6fdaef5e3f31edd7850fc213dd88978)
+
